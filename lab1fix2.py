@@ -71,9 +71,9 @@ def main():
 
     while True:
         print("\nOptions:")
-        print("1. List Courses")
-        print("2. List Students")
-        print("3. Show Student Marks")
+        print("1. Courses List")
+        print("2. Students List")
+        print("3. Student Marks")
         print("4. Exit")
         choice = input("Enter your choice: ")
         if choice == '1':
